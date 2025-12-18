@@ -25,8 +25,6 @@ Full-stack Engineer crafting AI-powered experiences, real-time systems & develop
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PIXI.js](https://img.shields.io/badge/PIXI.js-E91E63?style=flat&logo=pixiv&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat&logo=framer&logoColor=white)
 
 **Backend & Databases**
 

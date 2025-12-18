@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sonali Sharma</h1>
+<h1 align="center">Hi 👋 I'm Sonali </h1>
 
 # 💫 About Me:
 Full-stack Engineer crafting AI-powered experiences, real-time systems & developer tools.

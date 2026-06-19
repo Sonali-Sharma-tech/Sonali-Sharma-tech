@@ -8,6 +8,7 @@ Full-stack Engineer crafting AI-powered experiences, real-time systems & develop
 - 🌌 Building [black-note](https://github.com/Sonali-Sharma-tech/black-note) — AI-powered notes with a black hole interface
 - 🎨 Created [colorful-carbon-extension](https://github.com/Sonali-Sharma-tech/colorful-carbon-extension) — VS Code extension that transforms your editor
 - 🛠️ Maintaining [dev-toolkit](https://github.com/Sonali-Sharma-tech/dev-toolkit) — Practical developer reference guide
+- 📚 Published [Frontend Interview Preparation](https://frontend-interview-preparation-iota.vercel.app) — A single-page senior frontend study guide (React, performance, system design, DSA & LLD)
 
 # 💻 Tech Stack:
 
